@@ -1,7 +1,7 @@
 # Snake Game on the Basys3 Platform
 
 ## 1. Objective of the Project
-The objective of this laboratory project is to implement the classic Snake game on an FPGA using the advanced features of the Basys3 development platform. The game utilizes a VGA display for graphical output, push buttons (or a PMOD controller) for game control, and a 7‑segment display for presenting the score and game state.
+The objective of this laboratory project is to implement the classic Snake game on an FPGA using the advanced features of the [Basys 3 development platform](http://digilent.com/shop/basys-3-amd-artix-7-fpga-trainer-board-recommended-for-introductory-users/). The game utilizes a VGA display for graphical output, push buttons (or a PMOD controller) for game control, and a 7‑segment display for presenting the score and game state.
 
 ## 2. System Overview
 In the Snake game, the player controls a snake that moves within a grid. The snake grows when it eats food, and the game ends when the snake collides with a wall or with its own body.  
