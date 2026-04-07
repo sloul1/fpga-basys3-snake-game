@@ -26,6 +26,7 @@ Basys3 Platform Features:
 ## 4. Architecture and Block Structure
 The system is implemented modularly using the following components:  
 
+``` 
 +---------------------+
 | Clock Divider       |
 +----------+----------+
@@ -37,4 +38,5 @@ The system is implemented modularly using the following components:
 +----+-----+----+--------------+
 |    |          |              |
 v    v          v              v
-Input  Logic   VGA Controller  Score Counter
+Input  Logic   VGA Controller  Score Counter  
+```
